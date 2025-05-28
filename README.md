@@ -58,9 +58,3 @@ chmod +x ./install.sh
 
 1. Uninstall Gimp via the application center (e.g. Gnome Software).
 2. Manually remove the `org.gimp.GIMP.desktop` shortcut from the `~/.local/share/applications` folder.
-
----
-
-### Based on
-
-The patch is based on [PhotoGimpainter by Nor-darkstar](https://github.com/Nor-darkstar/PhotoGimpainter).
